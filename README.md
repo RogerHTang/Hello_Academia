@@ -4,4 +4,5 @@ The primary purpose of this repo is to create a space where my PhD colleagues an
 
 
 Key:
-<example> Angle brackets are used for sections you need to edit, delete brackets afterwards.
+
+"<>" Angle brackets are used for sections you need to edit, delete brackets afterwards.
